@@ -546,6 +546,7 @@ Links
 * https://tarnkappe.info/artikel/internet/caroline-farrow-verhaftung-und-durchsuchung-dank-kiwi-farms-257403.html
 * https://tarnkappe.info/listen/macos-warez-portale-fuer-apple-user-oktober-2022-257414.html
 <<<<<<< HEAD
+<<<<<<< HEAD
 * https://tarnkappe.info/artikel/hacking/whatsapp-entwickler-stehlen-millionen-von-konten-257452.html
 * https://tarnkappe.info/artikel/rechtssachen/ace-laesst-erneut-millionen-von-streamern-ins-leere-schauen-257458.html
 * https://www.heise.de/news/In-App-Browser-auf-dem-iPhone-Experte-sieht-Trackingpotenzial-durch-Meta-7217027.html
@@ -574,6 +575,9 @@ Links
 * https://www.heise.de/news/Cyber-Angriff-auf-franzoesische-Tochter-von-Ruestungsunternehmen-Hensoldt-7237071.html
 * https://www.heise.de/news/Sicherer-im-Internet-surfen-Obacht-vor-gefaelschten-DDoS-Check-Websites-7238985.html
 * https://www.heise.de/news/Boesartige-Apps-im-Google-Play-Store-Mehr-als-zwei-Millionen-Downloads-7239109.html
+=======
+* https://tarnkappe.info/artikel/hacking/whatsapp-entwickler-stehlen-millionen-von-konten-257452.html
+>>>>>>> parent of fe95809 (Added more links.)
 =======
 * https://tarnkappe.info/artikel/hacking/whatsapp-entwickler-stehlen-millionen-von-konten-257452.html
 >>>>>>> parent of fe95809 (Added more links.)
